@@ -1,2 +1,2 @@
 # paidaobiao
-# 基于金山文档为的hoshino排刀表插件
+# 基于金山文档的hoshino排刀表插件
