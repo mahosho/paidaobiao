@@ -1,2 +1,3 @@
 # paidaobiao
 # 基于金山文档的hoshino排刀表插件
+需要搭配魔改过的yobot使用，该插件可以根据yobot报刀自动更新金山文档的在线表格
